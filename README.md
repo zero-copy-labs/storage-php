@@ -19,7 +19,7 @@ composer require supabase/storage-php
 
 ## Examples
 
-[Examples](https://github.com/zero-copy-labs/storage-php/tree/main/examples)
+[Examples Directory](https://github.com/zero-copy-labs/storage-php/tree/main/examples)
 
 ### Connecting to the storage backend
 
